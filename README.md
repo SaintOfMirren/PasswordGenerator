@@ -6,4 +6,4 @@ This website allows you to randomly generate a password based on selecting some 
 
 ## License
 
-
+MIT License
