@@ -7,3 +7,14 @@ This website allows you to randomly generate a password based on selecting some 
 ## License
 
 MIT License
+
+## Example
+
+![image](https://user-images.githubusercontent.com/10481532/216145783-7d22b6cb-5ae8-4b6a-8871-3c6b3781d979.png)
+
+## Website
+
+Website: https://saintofmirren.github.io/passwordgenerator/
+
+
+
